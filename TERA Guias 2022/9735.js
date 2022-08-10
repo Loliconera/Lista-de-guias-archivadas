@@ -1,5 +1,4 @@
 ﻿// RK-9 Kennel
-//
 // hecho por michengs
 
 module.exports = (dispatch, handlers, guide, lang) => {

@@ -1,5 +1,4 @@
 // Red Refuge
-//
 // hecho por multarix
 
 module.exports = (dispatch, handlers, guide, lang) => {
